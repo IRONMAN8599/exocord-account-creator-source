@@ -121,8 +121,8 @@ class TokenGenerator:
         payload = {
             'fingerprint':      self.fingerprint,
             'email':            mail,
-            'username':         "ExoCord - Account Creator",
-            'password':         'Aniello123',
+            'username':         "Vishw Op",
+            'password':         'VishwOp123',
             'invite':           None,
             'consent':          True,
             'date_of_birth':    "1999-11-01",
